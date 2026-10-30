@@ -18,3 +18,11 @@ This section was added as part of a Git and GitHub collaboration experiment.
 
 ### Purpose
 This modification demonstrates how developers can contribute to an existing project using Git branches, commits, and pull requests.
+## Contribution Update
+
+This section was added as part of a Git and GitHub collaboration experiment.
+
+### Changes Made
+- Updated project documentation.
+- Added contribution details.
+- Demonstrated the fork-and-pull-request workflow.
